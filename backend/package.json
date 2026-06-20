@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princeprabhat/DiamondQuest.git"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Socket",
+    "MongoDB"
+  ],
+  "author": "Prince Prabhat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/princeprabhat/DiamondQuest/issues"
+  },
+  "homepage": "https://github.com/princeprabhat/DiamondQuest#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
